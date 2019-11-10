@@ -37,4 +37,4 @@ location /api/ {
 
 3000 是 nodejs 接口服务的端口
 
-参考/来源: [前端晋升全栈工程师必备课程 Node.js 从零开发 web server 博客项目](https://coding.imooc.com/class/320.html)
+学习来源: [前端晋升全栈工程师必备课程 Node.js 从零开发 web server 博客项目](https://coding.imooc.com/class/320.html)
